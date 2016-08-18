@@ -1,0 +1,18 @@
+input {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+}
+body {
+  margin: 30px;
+}
+
+textarea {
+  font-size: 20px;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+}
